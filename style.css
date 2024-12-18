@@ -23,3 +23,25 @@ width: 45%;
   <h1> Student Project </h1>
       <br>
    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/MuUyksM1FQhEgxCCf7QBeiNJd_TwzMDCV81EtLTgANr/embed?nosource"></iframe>
+
+ul{
+  list-style-type: none; 
+  background-color: green;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  padding: 10px;
+  opacity: .8;
+  margin: 0;
+}
+
+li {
+  display: inline;
+  padding: 10px 10px;
+}
+a { 
+text-deciratu=ion: none; 
+  color: white;
+  font-variant: small-caps;
+}
